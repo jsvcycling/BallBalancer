@@ -1,0 +1,17 @@
+Initialize engine version: 4.3.0f4 (e01000627d60)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshimx.dll 9.18.13.3523]
+    Renderer: Intel(R) HD Graphics 4600
+    Vendor:   Intel
+    VRAM:     1792 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\Dropbox\Development\BallBalancer\BallBalancer\BallBalancer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\Dropbox\Development\BallBalancer\BallBalancer\BallBalancer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\Dropbox\Development\BallBalancer\BallBalancer\BallBalancer_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading A:\Dropbox\Development\BallBalancer\BallBalancer\BallBalancer_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.321 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
